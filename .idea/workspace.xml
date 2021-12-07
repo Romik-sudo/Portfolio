@@ -82,11 +82,26 @@
       <workItem from="1638792597133" duration="702000" />
       <workItem from="1638793322901" duration="51000" />
       <workItem from="1638793397300" duration="329000" />
-      <workItem from="1638797207320" duration="1512000" />
+      <workItem from="1638797207320" duration="1857000" />
+      <workItem from="1638867386898" duration="182000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
