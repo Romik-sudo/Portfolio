@@ -430,6 +430,19 @@ body {
     width: 25px;
     height: 25px;
     margin-right: 5px;
+    background-image: url("../img/star_grey.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.block_star:hover .star {
+    background-image: url("../img/stars.svg");
+}
+.star:hover, .star:hover ~ .star {
+    background-image: url("../img/star_grey.svg");
+}
+
+.star.active {
+    background-image: url("../img/stars.svg");
 }
 
 .message {
